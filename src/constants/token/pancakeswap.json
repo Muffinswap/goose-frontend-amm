@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Muffin Finance",
+      "symbol": "MUFF",
+      "address": "0xebc46c9898f675eefef43ec410dd91edbf0006c1",
       "chainId": 56,
       "decimals": 18
     },
