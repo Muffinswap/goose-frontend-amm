@@ -50,7 +50,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinMarketCap',
-        href: 'https:'',
+        href: '',
       },
       {
         label: 'Coming Soon',
