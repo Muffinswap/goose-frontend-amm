@@ -13,23 +13,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '/swap'
+        href: 'swap.muffinance.org'
       },
       {
         label: 'Liquidity',
-        href: '/pool'
+        href: 'swap.muffinance.org'
       }
     ]
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.goosedefi.com/farms'
+    href: 'https://muffinance.org/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.goosedefi.com/nests'
+    href: 'https://muffinance.org/pools'
   },
   // {
   //   label: 'Lottery',
@@ -42,18 +42,18 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Muffinswap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0xebc46c9898f675eefef43ec410dd91edbf0006c1',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
+        href: '',
       },
       {
         label: 'CoinMarketCap',
         href: 'https:'#',
       },
       {
-        label: 'bounty',
+        label: 'Coming Soon',
         href: '#',
       },
     ]
@@ -67,7 +67,7 @@ const config: MenuEntry[] = [
         href: "https://github.com/muffinswap/",
       },
       {
-        label: "Docs",
+        label: "Telegram",
         href: "#",
       },
       {
@@ -77,19 +77,19 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Partnerships/IFO',
-    icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    label: 'IFO',
+    icon: 'IfoIcon',
+    href: '',
   },
+//  {
+//    label: 'Audit by Hacken',
+//    icon: 'AuditIcon',
+//   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+//  },
   {
-    label: 'Audit by Hacken',
+    label: 'Claim 20 BNB',
     icon: 'AuditIcon',
-    href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
-  },
-  {
-    label: 'Audit by CertiK',
-    icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
+    href: 'https://surveyheart.com/form/604c366d536a73312359d895',
   },
 ]
 
