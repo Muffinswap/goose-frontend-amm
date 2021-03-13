@@ -50,11 +50,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinMarketCap',
-        href: 'https:'#',
+        href: 'https:'',
       },
       {
         label: 'Coming Soon',
-        href: '#',
+        href: '',
       },
     ]
   },
@@ -68,7 +68,7 @@ const config: MenuEntry[] = [
       },
       {
         label: "Telegram",
-        href: "#",
+        href: "",
       },
       {
         label: "Blog",
