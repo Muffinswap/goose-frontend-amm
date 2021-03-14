@@ -15,7 +15,8 @@
       "symbol": "MUFF",
       "address": "0xebc46c9898f675eefef43ec410dd91edbf0006c1",
       "chainId": 56,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/EGG.png"
     },
     {
       "name": "AUTOv2",
